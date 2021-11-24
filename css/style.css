@@ -21,6 +21,17 @@ body {
 
 /*============= FOOTER =============*/
 
+ul{
+  max-width: 15rem;
+}
+
+.social{
+  color: white;
+}
+.social:hover{
+  color: red;
+}
+
 
 /*===== FIXED BACKGROUND IMG =====*/
 .fixed {
